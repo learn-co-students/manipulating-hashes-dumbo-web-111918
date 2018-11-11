@@ -8,5 +8,5 @@ def second_challenge
   }
 
   #code your solution here!
-  groceries.values.flatten
+  groceries.values.flatten # TO FLATTEN ARRAY of ARRAYS
 end
